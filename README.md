@@ -1,2 +1,2 @@
-#Marcin
-Od tego roku studiuję informatykę.
+# Marcin Głodziak
+2020- Studia informatyczne
